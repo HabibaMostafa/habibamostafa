@@ -20,7 +20,7 @@
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![AWS](http://img.shields.io/badge/-AWS-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-![Angular](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=982DE2)
+![Angular](http://img.shields.io/badge/-Angular-982DE2?style=flat-square&logo=java&logoColor=ffffff)
 
 ### Snapshot of my Repo
 
