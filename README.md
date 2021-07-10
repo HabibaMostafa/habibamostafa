@@ -1,11 +1,9 @@
 ### Hi there, I'm Habiba 👋 
 
-Software Engineering intern @ Microsoft
-
 - 👩🏻‍💻 currently designing & developing cool things @ Microsoft
 - 💻 currently TPM @ InternHacks
 - 📚 learning FAST web components
-- 💬 ask me about front-end development, UI/UX, photography
+- 💬 ask me about front-end development, ui/ux design, photography
 
 ### Languages and Tools 🛠 
 
