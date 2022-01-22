@@ -1,7 +1,6 @@
 ### Hi there, I'm Habiba 👋 
 
-- 👩🏻‍💻 currently designing & developing cool things @ Microsoft
-- 💻 currently TPM @ InternHacks
+- 👩🏻‍💻 designing & developing cool things @ Microsoft
 - 📚 learning FAST web components
 - 💬 ask me about front-end development, ui/ux design, photography
 
