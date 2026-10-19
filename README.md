@@ -1,7 +1,6 @@
 ### Hi there, I'm Habiba 👋 
 
 - 💼 Engineer at Microsoft
-- 💬 ask me about front-end development, ui/ux design, photography
 
 ### Languages and Tools 🛠 
 
